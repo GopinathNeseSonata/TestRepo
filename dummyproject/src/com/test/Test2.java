@@ -9,9 +9,4 @@ package com.test;
  */
 public class Test {
 
-
-private method1()
-   {
-   //test methos
-   }
 }
